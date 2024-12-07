@@ -25,7 +25,23 @@
 }
 
 /* =============feature Section============= */
+.feature_section{
+    margin: 100px 0;
+}
 .feature_top a{
     color: #fbb921 !important;
     
+}
+.card_items .card{
+    border: 0 !important;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 5px;
+}
+.card_items .card h1{
+    color: #6c757d;
+    margin: 20px 0;
+}
+.laptop_cards{
+    margin-top: 120px;
+    margin-bottom: 30px;
 }
