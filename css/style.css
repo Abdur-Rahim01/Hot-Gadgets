@@ -1,0 +1,31 @@
+
+
+
+.nav-link {
+    font-size: 20px !important;
+    color: #000000c4;
+    font-weight: 600;
+    
+}
+.navbar-nav .nav-item:hover{
+        background: #9c99991f;
+       border-radius: 8px;
+        
+    }
+   /* ------------slider section ------- */
+   .carousel-indicators [data-bs-target] {
+    height: 10px;
+    background-color: #20201f70;
+    border: 0;
+    border-radius: 5px;
+   }
+   .carousel-indicators .active {
+    background-color: #fbb921 !important;
+    width: 50px !important;
+}
+
+/* =============feature Section============= */
+.feature_top a{
+    color: #fbb921 !important;
+    
+}
